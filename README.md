@@ -36,7 +36,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 
  ----
 <span>
-<h3 align="left">I'm playing with:</h3> 
+<h3 align="left"> 🏀 I'm playing with:</h3> 
  <img align="left" src="https://media4.giphy.com/media/wrWQtb0qxUV0FxbYgU/giphy.gif?cid=790b7611668e11713a9aa5cb8ef30f16f2d637536fc4d0e5&rid=giphy.gif&ct=g" width="300" height="300"/>
 </span>
 <div align="middle" >

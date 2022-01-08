@@ -2,16 +2,16 @@
 <h3 align="center">A Fullstack developer based on Palestine</h3>
 
 <p align="middle">
- <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" /> 
-<img src ="https://badges.pufler.dev/years/jood80" /> 
+ <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" />
+ <img src ="https://badges.pufler.dev/years/jood80" /> 
 </p>
-
+ 
 
 ### 💬 Bio
  
  <a href="https://tabletopwhale.com/2014/09/29/flight-videos-deconstructed.html" target="_blank" rel="noreferrer"> <img src="https://www.basicknowledge101.com/photos/2015/flight%20deconstructed.gif" alt="flight" width="400" height="400" align="right"/> </a>
-  Developers are no different from birds; each one has their way of flying/coding, based on the speciality they move upon.
-  <br/> I'm an avid learner and a self-starter who enjoys challenging myself when tackling complex technical problems. I'm a Mechatronics engineer/Robotics/Developer who loves working on a team and the energy of solving problems together. Adventurer at heart ⛰️ and passionate about pottery & martial arts 🥷 <br/>
+  Developers are no different from birds; each one has their own way of flying/coding, based on their speciality they move upon.
+  <br/> I'm an avid learner and a self-starter who enjoys challenging myself when tackling complex technical problems. A Mechatronics engineer/Robotics/Developer who loves working on a team and the energy of solving problems together. Adventurer at heart ⛰️ and passionate about pottery & martial arts 🥷 <br/>
 Lately, I'm more into System design and Data structure since I strive to get specialized at backend development :fire:
 
 - 🔭 I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)

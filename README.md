@@ -128,5 +128,7 @@ Lately, I'm more into system design and Data structure since I strive to get spe
 -----
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jood80&" alt="jood80" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jood80&show_icons=true&locale=en&layout=compact" alt="jood80" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jood80&show_icons=true&locale=en" alt="jood80" /></p>
+<p float="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jood80&show_icons=true&locale=en" alt="jood80" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jood80&show_icons=true&locale=en&layout=compact" alt="jood80" />
+</p>
 

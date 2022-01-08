@@ -10,17 +10,18 @@
 ### 💬 Bio
  
  <a href="https://tabletopwhale.com/2014/09/29/flight-videos-deconstructed.html" target="_blank" rel="noreferrer"> <img src="https://www.basicknowledge101.com/photos/2015/flight%20deconstructed.gif" alt="flight" width="400" height="400" align="right"/> </a>
-  Avid learner and a self-starter who enjoys challenging herself when tackling complex technical problems. I'm a Mechatronics engineer/Robotics who loves working on a team and the energy of solving problems together. I am an adventurer at heart and passionate about pottery :fire:
-Lately, I'm more into system design and Data structure since I strive to get specialized at backend development.
+  Developers are no different from birds; each one has their way of flying/coding, based on the speciality they move upon.
+  <br/> I'm an avid learner and a self-starter who enjoys challenging myself when tackling complex technical problems. I'm a Mechatronics engineer/Robotics/Developer who loves working on a team and the energy of solving problems together. Adventurer at heart ⛰️ and passionate about pottery & martial arts 🥷 <br/>
+Lately, I'm more into System design and Data structure since I strive to get specialized at backend development :fire:
 
 - 🔭 I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)
 
 - 🌱 Currently learning: <br/>
    **Data structure, Algorithms, System design 101, Maps, Nest.js**
 
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)
+- 📄 I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)
 
-- :motorcycle:	Fun fact **Lets Go Drifting** 🌪️ 
+- :motorcycle:	Fun fact **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️ 
 
 
 <h3 align="left">Reach me out:</h3>
@@ -35,7 +36,7 @@ Lately, I'm more into system design and Data structure since I strive to get spe
 
  ----
 
-<h3 align="left">Languages and Tools that I'm playing with:</h3>
+<h3 align="left">I'm playing with:</h3>
 <div align="middle" >
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -45,7 +46,8 @@ Lately, I'm more into system design and Data structure since I strive to get spe
 <div align="middle">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>   <a href="https://graphql.org" target="_blank" rel="noreferrer">
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Location_arithmetic_vertical.svg" alt="typeorm" width="20" height="40"/>
@@ -59,7 +61,7 @@ Lately, I'm more into system design and Data structure since I strive to get spe
   <img src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="chakra-ui" width="40" height="40"/> 
   </a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="chakra-ui" width="40" height="40"/> 
+  <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled-component" width="40" height="40"/> 
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="60"/> </a>
  
@@ -67,13 +69,17 @@ Lately, I'm more into system design and Data structure since I strive to get spe
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/> 
- </a>
-   <a href="#" target="_blank" rel="noreferrer">
-   <img src="https://cdn.changelog.com/uploads/icons/topics/kJ/icon_large.png?v=63683332430" alt="rest" width="50" height="50"/> 
- </a>
+ </a> 
+   <img src="https://cdn.changelog.com/uploads/icons/topics/kJ/icon_large.png?v=63683332430" alt="rest-api" width="50" height="50"/>
+  <a href="https://sendgrid.com/" target="_blank" rel="noreferrer">
+   <img src="https://seeklogo.com/images/S/sendgrid-logo-7574E52082-seeklogo.com.png" alt="rest-api" width="35" height="35"/>
+  </a>
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Location_arithmetic_vertical.svg" alt="typeorm" width="20" height="40"/>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+ </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+ </a>
  <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/> </a> 
 
 </div> 
@@ -111,16 +117,16 @@ Lately, I'm more into system design and Data structure since I strive to get spe
  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="matlab" width="40" height="40"/>
+  <a href="https://www.mathworks.com/products/simulink.html#:~:text=Simulink%20is%20a%20block%20diagram,and%20deploy%20without%20writing%20code." target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon-library.com/images/wolfram-alpha-icon/wolfram-alpha-icon-17.jpg" alt="matlab" width="40" height="40"/>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
+    <img src="https://icon-library.com/images/wolfram-alpha-icon/wolfram-alpha-icon-17.jpg" alt="wolfram mathematica" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
     <img src="https://mpng.subpng.com/20180330/tde/kisspng-labview-national-instruments-computer-software-com-techno-5abed8a3651b60.5227293315224567394141.jpg" alt="labview" width="40" height="40"/>
   </a> 
 </div>

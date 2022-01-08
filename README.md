@@ -7,7 +7,7 @@
 </p>
  
 
-### 💬 Bio
+### 📝 Bio
  
  <a href="https://tabletopwhale.com/2014/09/29/flight-videos-deconstructed.html" target="_blank" rel="noreferrer"> <img src="https://www.basicknowledge101.com/photos/2015/flight%20deconstructed.gif" alt="flight" width="400" height="400" align="right"/> </a>
   Developers are no different from birds; each one has their own way of flying/coding, based on their speciality they move upon.
@@ -35,8 +35,10 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 </p>
 
  ----
-
-<h3 align="left">I'm playing with:</h3>
+<span>
+<h3 align="left">I'm playing with:</h3> 
+ <img align="left" src="https://media4.giphy.com/media/wrWQtb0qxUV0FxbYgU/giphy.gif?cid=790b7611668e11713a9aa5cb8ef30f16f2d637536fc4d0e5&rid=giphy.gif&ct=g" width="300" height="300"/>
+</span>
 <div align="middle" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>

@@ -20,7 +20,7 @@ Lately, I'm more into system design and Data structure since I strive to get spe
 
 - 📄 Know about my experiences: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)
 
-- ⚡ Fun fact **Drifting fires my soul**
+- :motorcycle:	Fun fact **Lets Go Drifting** 🌪️ 
 
 
 <h3 align="left">Reach me out:</h3>
@@ -128,7 +128,8 @@ Lately, I'm more into system design and Data structure since I strive to get spe
 -----
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jood80&" alt="jood80" /></p>
 
-<p float="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jood80&show_icons=true&locale=en" alt="jood80" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jood80&show_icons=true&locale=en&layout=compact" alt="jood80" />
+<p float="left">
+ <img  src="https://github-readme-stats.vercel.app/api?username=jood80&show_icons=true&locale=en" alt="jood80" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jood80&show_icons=true&locale=en&layout=compact" alt="jood80" />
 </p>
 

@@ -5,7 +5,8 @@
  <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" />
  <img src ="https://badges.pufler.dev/years/jood80" /> 
 </p>
- 
+
+<!-- ![counter](https://en9b3v7jbitdzcd.m.pipedream.net) -->
 
 ### 📝 Bio
  

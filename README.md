@@ -11,18 +11,18 @@
 ### 📝 Bio
  
  <a href="https://tabletopwhale.com/2014/09/29/flight-videos-deconstructed.html" target="_blank" rel="noreferrer"> <img src="https://www.basicknowledge101.com/photos/2015/flight%20deconstructed.gif" alt="flight" width="400" height="400" align="right"/> </a>
-  Developers are no different from birds; each one has their own pattern of flying/coding, based on their speciality they move upon.
+  <del>Developers are no different from birds; each one has their own pattern of flying/coding, based on their speciality they move upon.
   <br/> I'm an avid learner and a self-starter who enjoys challenging myself when tackling complex technical problems. A Mechatronics engineer/Robotics/Developer who loves working on a team and the energy of solving problems together. Adventurer at heart ⛰️ and passionate about pottery & martial arts 🥷 <br/>
-Lately, I'm more into System design and Data structure since I strive to get specialized at backend development :fire:
+Lately, I'm more into System design and Data structure since I strive to get specialized at backend development:fire:</del>
 
-- 🔭 I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)
+- 🔭<del> I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)</del>
 
-- 🌱 Currently learning: <br/>
-   **Data structure, Algorithms, System design 101, Maps, Nest.js**
+- 🌱<del> Currently learning: <br/>
+   **Data structure, Algorithms, System design 101, Maps, Nest.js**</del>
 
-- 📄 I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)
+- 📄<del> I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)</del>
 
-- :motorcycle:	Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️ 
+- :motorcycle:	<del>Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)**</del> 🌪️ 
 
 
 <h3 align="left">Reach me out:</h3>
@@ -31,13 +31,13 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 <a href="https://discord.gg/Nujood#5153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nujood#5153" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jood80/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jood80/" height="30" width="30" /></a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;su=subject+message&amp;to=shawar.nujood@gmail.com" rel="nofollow">
- <img align="left" alt="nujood|gmail" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" data-canonical-src="https://i.imgur.com/kn7FfLZ.png" style="max-width: 100%;">
+ <img align="left" alt="nujood|gmail" width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" data-canonical-src="https://i.imgur.com/kn7FfLZ.png" style="max-width: 100%;">
  </a>
 </p>
 
  ----
 <span>
-<h3 align="left"> 🏀 I'm playing with:</h3> 
+ <h3 align="left"> 🏀<del> I'm playing with:</del></h3> 
  <img align="left" src="https://media4.giphy.com/media/wrWQtb0qxUV0FxbYgU/giphy.gif?cid=790b7611668e11713a9aa5cb8ef30f16f2d637536fc4d0e5&rid=giphy.gif&ct=g" width="300" height="300"/>
 </span>
 <div align="middle" >

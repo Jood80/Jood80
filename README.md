@@ -2,8 +2,10 @@
 <h3 align="center">A Fullstack developer based on Palestine</h3>
 
 <p align="middle">
- <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" />
+<!--  <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" /> -->
+ <img src="https://badges.pufler.dev/visits/jood80/Jood80"/>
  <img src ="https://badges.pufler.dev/years/jood80" /> 
+ <img src ="https://badges.pufler.dev/repos/jood80" /> 
 </p>
 
 <!-- ![counter](https://en9b3v7jbitdzcd.m.pipedream.net) -->

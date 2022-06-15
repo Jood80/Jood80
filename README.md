@@ -11,18 +11,18 @@
 ### 📝 Bio
  
  <a href="https://tabletopwhale.com/2014/09/29/flight-videos-deconstructed.html" target="_blank" rel="noreferrer"> <img src="https://www.basicknowledge101.com/photos/2015/flight%20deconstructed.gif" alt="flight" width="400" height="400" align="right"/> </a>
-  <del>Developers are no different from birds; each one has their own pattern of flying/coding, based on their speciality they move upon.
+  Developers are no different from birds; each one has their own pattern of flying/coding, based on their speciality they move upon.
   <br/> I'm an avid learner and a self-starter who enjoys challenging myself when tackling complex technical problems. A Mechatronics engineer/Robotics/Developer who loves working on a team and the energy of solving problems together. Adventurer at heart ⛰️ and passionate about pottery & martial arts 🥷 <br/>
-Lately, I'm more into System design and Data structure since I strive to get specialized at backend development:fire:</del>
+Lately, I'm more into System design and Data structure since I strive to get specialized at backend development:fire:
 
-- 🔭<del> I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)</del>
+- 🔭 I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)
 
-- 🌱<del> Currently learning: <br/>
-   **Data structure, Algorithms, System design 101, Maps, Nest.js**</del>
+- 🌱 Currently learning: <br/>
+   **Data structure, Algorithms, System design 101, Maps, Nest.js**
 
-- 📄<del> I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)</del>
+- 📄 I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)
 
-- :motorcycle:	<del>Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)**</del> 🌪️ 
+- :motorcycle:	Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️ 
 
 
 <h3 align="left">Reach me out:</h3>
@@ -37,7 +37,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 
  ----
 <span>
- <h3 align="left"> 🏀<del> I'm playing with:</del></h3> 
+ <h3 align="left"> 🏀 I'm playing with:</h3> 
  <img align="left" src="https://media4.giphy.com/media/wrWQtb0qxUV0FxbYgU/giphy.gif?cid=790b7611668e11713a9aa5cb8ef30f16f2d637536fc4d0e5&rid=giphy.gif&ct=g" width="300" height="300"/>
 </span>
 <div align="middle" >

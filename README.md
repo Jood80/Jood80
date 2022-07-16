@@ -20,9 +20,9 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 - 🔭 I’m currently working on a blog project called [Lectura](https://github.com/Survival-DEV/blog-backend)
 
 - 🌱 Currently learning: <br/>
-   **Data structure, Algorithms, System design 101, Maps, Nest.js**
+   **Data structure, Algorithms, System design 101, Maps :world_map:, Nest.js**
 
-- 📄 I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing)
+- 📄 I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing) //outdated
 
 - :motorcycle:	Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️ 
 
@@ -40,7 +40,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
  ----
 <span>
  <h3 align="left"> 🏀 I'm playing with:</h3> 
- <img align="left" src="https://media4.giphy.com/media/wrWQtb0qxUV0FxbYgU/giphy.gif?cid=790b7611668e11713a9aa5cb8ef30f16f2d637536fc4d0e5&rid=giphy.gif&ct=g" width="300" height="300"/>
+ <img align="left" src="https://media4.giphy.com/media/wrWQtb0qxUV0FxbYgU/giphy.gif?cid=790b7611668e11713a9aa5cb8ef30f16f2d637536fc4d0e5&rid=giphy.gif&ct=g" width="240" height="230"/>
 </span>
 <div align="middle" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 

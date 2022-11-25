@@ -3,12 +3,11 @@
 
 <p align="middle">
 <!--  <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" /> -->
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJood80"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJood80&label=visitors&countColor=%2337d67a&style=plastic" /></a>
  <img src="https://badges.pufler.dev/visits/jood80/Jood80"/>
  <img src ="https://badges.pufler.dev/years/jood80" /> 
  <img src ="https://badges.pufler.dev/repos/jood80" /> 
 </p>
-
-<!-- ![counter](https://en9b3v7jbitdzcd.m.pipedream.net) -->
 
 ### 📝 Bio
  
@@ -22,7 +21,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 - 🌱 Currently learning: <br/>
    **Data structure, Algorithms, System design 101, Maps :world_map:, Nest.js**
 
-- 📄 I'm open to work: [CV](https://drive.google.com/file/d/18W9rgYLHcXwrXjgtWv0w-B1rup593LLs/view?usp=sharing) //outdated
+- 📄 I'm open to work: [CV](https://drive.google.com/file/d/1i-UcjROrSgIovcSM7uddwqZI8NH_4Wg4/view?usp=sharing)
 
 - :motorcycle:	Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️ 
 
@@ -30,7 +29,6 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 <h3 align="left">Reach me out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nujood-kadhem-4245721b3/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/nujood-kadhem-4245721b3/" height="22" width="22" /></a>
-<a href="https://discord.gg/Nujood#5153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nujood#5153" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jood80/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jood80/" height="30" width="30" /></a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;su=subject+message&amp;to=shawar.nujood@gmail.com" rel="nofollow">
  <img align="left" alt="nujood|gmail" width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" data-canonical-src="https://i.imgur.com/kn7FfLZ.png" style="max-width: 100%;">
@@ -93,7 +91,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/products/simulink.html#:~:text=Simulink%20is%20a%20block%20diagram,and%20deploy%20without%20writing%20code." target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" width="40" height="40"/>
+    <img src="https://banner2.cleanpng.com/20180416/gze/kisspng-simulink-matlab-mathworks-computer-software-logo-coder-5ad4552a7f3045.082954511523864874521.jpg" alt="simulink" width="40" height="40"/>
   </a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
     <img src="https://icon-library.com/images/wolfram-alpha-icon/wolfram-alpha-icon-17.jpg" alt="wolfram mathematica" width="40" height="40"/>

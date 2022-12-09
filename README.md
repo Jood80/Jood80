@@ -4,9 +4,9 @@
 <p align="middle">
 <!--  <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" /> -->
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJood80"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJood80&label=visitors&countColor=%2337d67a&style=plastic" /></a>
- <img src="https://badges.pufler.dev/visits/jood80/Jood80"/>
+<!--  <img src="https://badges.pufler.dev/visits/jood80/Jood80"/>
  <img src ="https://badges.pufler.dev/years/jood80" /> 
- <img src ="https://badges.pufler.dev/repos/jood80" /> 
+ <img src ="https://badges.pufler.dev/repos/jood80" /> -->
 </p>
 
 ### 📝 Bio

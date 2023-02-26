@@ -5,8 +5,8 @@
 <!--  <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" /> -->
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJood80"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJood80&label=visitors&countColor=%2337d67a&style=plastic" /></a>
 <!--  <img src="https://badges.pufler.dev/visits/jood80/Jood80"/> -->
- <img src ="https://badges.pufler.dev/years/jood80" /> 
- <img src ="https://badges.pufler.dev/repos/jood80" />
+<!--  <img src ="https://badges.pufler.dev/years/jood80" />  -->
+<!--  <img src ="https://badges.pufler.dev/repos/jood80" /> -->
 </p>
 
 ### 📝 Bio
@@ -108,6 +108,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 <p align="middle">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jood80&" alt="jood80" />
   <img  src="https://github-readme-stats.vercel.app/api?username=jood80&show_icons=true&locale=en" alt="jood80" /> 
+  <br/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jood80&show_icons=true&locale=en&layout=compact" alt="jood80" />
 </p>
 

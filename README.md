@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack developer based on Palestine</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <p align="middle">
 <!--  <img src="https://komarev.com/ghpvc/?username=jood80&label=Profile%20views&color=0e75b6&style=flat" alt="jood80" /> -->

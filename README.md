@@ -20,9 +20,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 - 🌱 Currently learning: <br/>
    **Data structure, Algorithms, System design 101, Maps :world_map:, Nest.js**
 
-- 📄 I'm open to work: [CV](https://drive.google.com/file/d/1i-UcjROrSgIovcSM7uddwqZI8NH_4Wg4/view?usp=sharing)
 
-- :motorcycle:	Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️ 
 
 
 <h3 align="left">Reach me out:</h3>
@@ -32,6 +30,7 @@ Lately, I'm more into System design and Data structure since I strive to get spe
 <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;su=subject+message&amp;to=shawar.nujood@gmail.com" rel="nofollow">
  <img align="left" alt="nujood|gmail" width="22" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" data-canonical-src="https://i.imgur.com/kn7FfLZ.png" style="max-width: 100%;">
  </a>
+<!-- - :motorcycle:	Fun fact: **Lets Go [Drifting](https://www.youtube.com/watch?v=opsmd5yuBF0)** 🌪️  -->
 </p>
 
  ----
